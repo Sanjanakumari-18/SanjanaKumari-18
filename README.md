@@ -3,9 +3,12 @@
 Welcome to my little corner of GitHub!
 I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find:
 
- - 🛠️ Projects I’m building or contributing to
- - 📚 Things I’ve learned while juggling work, deadlines, and debugging
- - 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
+- 🍪 Life’s short — push the commit, eat the cookie.
+- 🖌 Designing dreams, coding reality.
+- 🧭 Exploring tech, one branch at a time.
+- 🎮 Debugging like it’s a boss fight — and winning.
+- 🔮 Future engineer, current bug whisperer.
+
 Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
 
 Let’s connect, learn, and grow together—one repo at a time.
