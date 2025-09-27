@@ -14,6 +14,7 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 Let’s connect, learn, and grow together—one repo at a time.
 You bring the snacks, I’ll bring the code 🍪💻
 
+---
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__sanjana._.mehta__?igsh=MXhmZDU1ZDdpcDFsdw==)
