@@ -12,7 +12,7 @@ Let’s connect, learn, and grow together—one repo at a time.
 You bring the snacks, I’ll bring the code 🍪💻
 
 🌐 Socials:
-<!-- Instagram Badge (Linked) -->
+Instagram Badge (Linked)
 []([https://www.instagram.com/__sanjana._.mehta__?igsh=MXhmZDU1ZDdpcDFsdw==])
 
 []([https://www.linkedin.com/in/sanjana-kumari-9aa07823b/])
