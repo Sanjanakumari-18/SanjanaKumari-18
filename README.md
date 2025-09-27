@@ -12,12 +12,10 @@ Let’s connect, learn, and grow together—one repo at a time.
 You bring the snacks, I’ll bring the code 🍪💻
 
 🌐 Socials:
-<!-- Instagram Badge (Linked) -->
-[Instagram](https://img.shields.io/badge/Instagram[https://www.instagram.com/__sanjana._.mehta__?igsh=MXhmZDU1ZDdpcDFsdw==])
-<!-- LinkedIn Badge (Linked) -->
-[]([Your LinkedIn URL])
-<!-- YouTube Badge (Linked) -->
-[]([Your YouTube Channel URL])
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__sanjana._.mehta__?igsh=MXhmZDU1ZDdpcDFsdw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yourchannel)
 
 
 💻 Tech Stack:
